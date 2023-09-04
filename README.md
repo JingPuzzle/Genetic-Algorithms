@@ -4,7 +4,7 @@ Some genetic algorithms that I've written about
 ## GA_tsp.py
 A genetic algorithm for solving symmetric tsp.
 
-## ga_Micgalewicz1.py
+## GA_Micgalewicz1.py
 A genetic algorithm for solving Michalewicz.
 
 ## FGA_D01KP.py
